@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049127888445",
+    "firebase_url": "https://flower-c1a36-default-rtdb.firebaseio.com",
+    "project_id": "flower-c1a36",
+    "storage_bucket": "flower-c1a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049127888445:android:245728de2cac795c2c2c54",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1p8CLHlziC9qp8w4L7wR-wEFjIwB5AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

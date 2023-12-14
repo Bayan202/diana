@@ -1,0 +1,70 @@
+{
+   "checksum": "ca68d5089bc05f6997b260fe4ff00654",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306989793085048",
+            "date_last_used": "0",
+            "guid": "1a846b90-aa5f-46fc-8ed9-dc71edd5a3e0",
+            "id": "7",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13306989793086890",
+            "date_last_used": "0",
+            "guid": "77be7d14-39d3-4b3f-aab9-3a76bb69d3cb",
+            "id": "8",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13306989793088258",
+            "date_last_used": "0",
+            "guid": "fc74f04e-5670-4faf-ab72-ac0718a0da55",
+            "id": "9",
+            "name": "Карты",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13344872134774352",
+         "date_last_used": "0",
+         "date_modified": "13306989793088258",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344872134774354",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344872134774357",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCFbupueLAQAAEgAgASoYL2YrRHdXNERLU0lneW5nMTBEZXpHQT09oAYMEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDNjMDM0MzBmLTZmY2MtNTdmYi04OGY3LTcwN2FkODg1NDZmMBgAIAAoADCIyfitsTA4yPDozY0wQMjw6M2NMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYzEyMzRhZDUtOGUxMC01YjlkLWE4OTQtYTRjMDVkMmI0ZGZmGAAgACgAMIjJ+K2xMDj38OjNjTBA9/DozY0wShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgHEqIBChxBcU5iV2ErNUJWYk5wc3ViYXFXb01zcDF6M0E9EiQxYTg0NmI5MC1hYTVmLTQ2ZmMtOGVkOS1kYzcxZWRkNWEzZTAYACACKAIwy/+avb4xOJSB2K6xMEDh+Zq9vjFKHEM5Nk1ILzlURzJlQ2p2UXBsVHh6ekpudVJXRT1aHiIcSGREZG15Qzh5WFZZUzRodzdYU3pDSHpFWDdNPWV7p0BxEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDc4MjJkYWJjLTVmZTYtNTBjMi1hMzBmLWNkYmIyZDEyYTU0YhgAIAAoADCIyfitsTA45/DozY0wQOfw6M2NMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEICRKjAQocbkt0QktNS0x0c0VOakFiRHAxU0VJaThmSkVFPRIkZmM3NGYwNGUtNTY3MC00ZmFmLWFiNzItYWMwNzE4YTBkYTU1GAAgAigCMMn/mr2+MTjlgNiusTBA4fmavb4xShxZbm54RzczNkRLUFJjTGNIS0VYSUgzeFFBMkk9Wh8iHb15N29FYXJTWlc2NEJMcUlKakpMRWtXQUd4Mmc9ZaT76JgSpwEICBKiAQocTlFwL0ZlTmM3bHBQTTIzMEFrVDNJSzVnNGNZPRIkNzdiZTdkMTQtMzlkMy00YjNmLWFhYjktM2E3NmJiNjlkM2NiGAAgAigCMMr/mr2+MTiEgdiusTBA4fmavb4xShxJVWQvNWRJZ0NWMkNLZVJYcTk0Q3JMK3F4dWc9Wh4iHHp4dDdYWjNXeVhaZXRUakx6SHd0U3hnRkZ5cz1lrBJiAjAAOAA=",
+   "version": 1
+}
